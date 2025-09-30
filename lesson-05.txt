@@ -1,0 +1,17 @@
+1. Cấu trúc DOM cơ bản của một trang web bao gồm các thẻ gì?
+ Bao gôm :
+ - Thẻ mở
+ - Thẻ đóng
+ - Thuộc tính
+ - Giá trị thuộc tính
+ - Text
+2. Hãy mô tả cấu trúc html của 1 bảng (table)
+Bao gồm :
+ - <Table>
+ - <Thread>
+ - <tr>
+ - <th>
+ - <th>
+ - </thread>
+ - <body>
+ - <a>
